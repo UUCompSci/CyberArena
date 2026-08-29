@@ -7,7 +7,7 @@ A competitive game inspired by cyber ranges, designed to simulate real-world red
 - [ ] Build interactive red team and blue team gameplay
 - [ ] Incorporate a scoring system to determine a winner
 - [ ] Incorporate a time limit for both teams
-- [ ] Increase realism of the game
+- [ ] Incorporate realism into the game
 - [ ] Incorporate multiple bugs and attack surfaces
 
   
